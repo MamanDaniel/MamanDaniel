@@ -2,10 +2,13 @@
 
 **`Software engineer (Braude college of Engineering)`**
 
-Hey there! I'm a 3rd-year student deeply immersed in the world of software engineering. <br>
-My GitHub hosts a collection of coding projects where I thrive on learning and development.<br>
-I did courses in data structures, algorithms, OS, web programming, data mining, and AI have sharpened my skills.<br>
-Excited to connect with the awesome developer community, collaborate, and innovate together! 
+Software Engineer (B.Sc. in Software Engineering) currently working as a Python Developer.
+
+Focused on building scalable and maintainable software systems, with strong foundations in algorithms, data structures, operating systems, and modern software architecture. Academic background also includes web development, data mining, and machine learning.
+
+Experienced in applying Python in production environments, with an emphasis on clean code, performance, and practical problem-solving.
+
+Continuously improving engineering skills through real-world development and system design challenges.
 
 --- 
 
